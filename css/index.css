@@ -230,7 +230,8 @@ p {
   left: 0;
   width: 100%;
   background: var(--white-color);
-  box-shadow: 0 0.125rem 1.75rem 0 rgb(0, 0, 0, 0.09);
+  /* box-shadow: 0 0.125rem 1.75rem 0 rgb(0, 0, 0, 0.09); */
+  box-shadow: 0 0.125rem 1.75rem 0 #A82C48;
   transition: all .15s ease-in-out 0s;
 }
 
